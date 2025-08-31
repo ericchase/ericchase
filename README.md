@@ -7,3 +7,7 @@ Join the [JavaScript.info](https://discord.gg/AuEWpFkfD4) Discord server to get 
 GPG Key ID: D9B4A5D70B26D9CF
 
 [Signing commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
+
+---
+
+(Due to aggressive spam, my public GitHub email address is no longer active. Please contact me through a different medium, thanks!)
